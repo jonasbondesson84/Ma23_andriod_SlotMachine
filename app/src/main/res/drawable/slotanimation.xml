@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+
+<!--    <item android:drawable="@drawable/hd_transparent_picture" android:duration="0"/>-->
+    <item android:drawable="@drawable/cherries_35288_640" android:duration="62"/>
+
+    <item android:drawable="@drawable/lemons_310283_640" android:duration="63"/>
+
+    <item android:drawable="@drawable/watermelon_25247_640" android:duration="64"/>
+
+</animation-list>
